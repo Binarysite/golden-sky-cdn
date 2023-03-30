@@ -1,0 +1,57 @@
+{
+    "version": "1.0.0",
+    "properties": [
+        {
+            "propertyTypeId": 1, 
+            "properties": [
+                {
+                    "id": 1,
+                    "unit": "CLP",
+                    "regionId": 7,
+                    "communeId": 102,
+                    "price": 100000000,
+                    "isAvailable": true,
+                    "bedroomsNumber": 3,
+                    "totalAreaMts2": 42,
+                    "kitchensNumber": 2,
+                    "livingRoomsNumber": 1,
+                    "yearOfBuilt": 2017,
+                    "Amenities": ["AIR_CONDITIONER", "HEATING", "SWIMMING_POOL"],
+                    "publihedDate": "2023-05-01",
+                    "availableFrom": "2023-05-01",
+                    "petAllowed": true,
+                    "balconyAreaMts2": 8, 
+                    "operationTypeId": 1,
+                    "address": "Avenida Providencia 123",
+                    "mapsUrl": "",
+                    "introVideoUrl": "",
+                    "title": "Hermoso departamento en zona norte de chicago bulls",
+                    "aditionalDetails": [
+                        "Remodale Year: 3", 
+                        "Amenites: Half of Fame", 
+                        "Equepment: Grill-gass",
+                        "Diposit: 7065$",
+                        "Pool Size: 1620",
+                        "Additional Room: 2",
+                        "Ground: 2",
+                        "Floor: 1203"
+                    ],
+                    "description": "Hermoso departamento de 3 dormitorios y 2 baños, con una excelente ubicación en Providencia. Cuenta con una amplia cocina, living comedor, terraza y estacionamiento subterráneo.",
+                    "imagenes": [
+                        {
+                            "href": "gitslas.com",
+                            "altText": "esta imagen es de un perrito comiendose el culo"
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "title": "Property Details",
+                            "href": "gasdas.com"
+                        }
+                    ]
+                }
+            ]
+        }
+        
+    ]
+}

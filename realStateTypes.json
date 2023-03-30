@@ -1,0 +1,46 @@
+[
+	{
+		"id": 1,
+		"type": "Departamento"
+	},
+	{
+		"id": 2,
+		"type": "Casas"
+	},
+	{
+		"id": 3,
+		"type": "Oficina"
+	},
+	{
+		"id": 4,
+		"type": "Local Comercial"
+	},
+	{
+		"id": 5,
+		"type": "Terreno"
+	},
+	{
+		"id": 6,
+		"type": "Parcela"
+	},
+	{
+		"id": 7,
+		"type": "Agrícola"
+	},
+	{
+		"id": 8,
+		"type": "Industrial"
+	},
+	{
+		"id": 9,
+		"type": "Bodega"
+	},
+	{
+		"id": 10,
+		"type": "Estacionamiento"
+	},
+	{
+		"id": 11,
+		"type": "Vacacional"
+	}
+]
